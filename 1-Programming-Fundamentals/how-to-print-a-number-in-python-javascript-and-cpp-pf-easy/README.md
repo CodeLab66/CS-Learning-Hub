@@ -1,4 +1,4 @@
-# Print a Number
+# # How to Print a Number in Python, JavaScript and C++
 ## Problem Statement
 Write a program that takes an integer as input from the user and prints the same number on the screen.
 

@@ -1,4 +1,4 @@
-# Even or Odd Number
+# How to Check Even or Odd Number Using If-Else in Python, JavaScript and C++
 
 ## Problem Statement
 Write a program that takes an integer as input from the user and checks whether the number is even or odd.
