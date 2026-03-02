@@ -1,14 +1,4 @@
 # Print a Number
-
-## Subject
-Programming Fundamentals
-
-## Topic
-Basic Input and Output
-
-## Difficulty
-Easy
-
 ## Problem Statement
 Write a program that takes an integer as input from the user and prints the same number on the screen.
 
